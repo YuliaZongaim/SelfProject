@@ -15,7 +15,7 @@ namespace WindowsFormsApp5lab2
         }
         public override void SetEngineCapacity()
         {
-            Volkswagen2.Add("2100 см3");
+            Volkswagen2.Add("1890 см3");
         }
         public override void SetAntilockBrakingSystem()
         {
