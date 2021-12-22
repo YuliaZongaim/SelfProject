@@ -11,7 +11,7 @@ namespace WindowsFormsApp5lab2
         private Volkswagen Volkswagen2 = new Volkswagen();
         public override void SetEngine()
         {
-            Volkswagen2.Add("дизельний");
+            Volkswagen2.Add("бензин");
         }
         public override void SetEngineCapacity()
         {
